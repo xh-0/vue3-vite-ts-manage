@@ -1,2 +1,2 @@
-# vue3-vite-ts-manage
-vue3-vite-ts-manage，个人联系demo项目
+# Vue 3 + TypeScript + Vite
+  项目demo
