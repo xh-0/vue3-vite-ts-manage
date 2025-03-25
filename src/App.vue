@@ -5,7 +5,7 @@ import Main from './pages/layout/Main.vue'
 
 <template>
   <!-- <HelloWorld msg="Vite + Vue" /> -->
-  test1
+  test12
   <Main/>
   
 </template>
